@@ -1,5 +1,5 @@
-**Estudando Python
-**
+**Estudando Python**
+
 Repositório criado para armazenar meus estudos da linguagem Python, incluindo exercícios, práticas, desafios e testes realizados durante meu aprendizado.
 
 **Conteúdos**
