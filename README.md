@@ -1,8 +1,8 @@
-🐍 Estudando Python
+**Estudando** Python
 
 Repositório criado para armazenar meus estudos da linguagem Python, incluindo exercícios, práticas, desafios e testes realizados durante meu aprendizado.
 
-📚 Conteúdos
+**Conteúdos**
 - Lógica de programação
 - Variáveis e operadores
 - Condicionais
@@ -11,6 +11,6 @@ Repositório criado para armazenar meus estudos da linguagem Python, incluindo e
 - Listas, tuplas e dicionários
 - Exercícios práticos
 
-🛠 Tecnologias
+**Tecnologias**
 - Python
 - VS Code
