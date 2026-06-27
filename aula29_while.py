@@ -1,0 +1,14 @@
+'''
+while executa um bloco de código enquando tal condição for verdadeira
+Repetições
+loop infinito - Quando um código não tem fim
+
+'''
+contador = 0
+
+while contador <= 10: 
+    contador = contador + 1
+    print(contador)
+
+print('Acabou')
+
